@@ -7,6 +7,8 @@ Move ``GoogleCC`` folder under ``data`` to match the default paths.
 
 [OCR-CC Data (Huge, ~1.3T)](https://tapvqacaption.blob.core.windows.net/data/GoogleCC).
 
+[Model checkpoints (~17G)](https://tapvqacaption.blob.core.windows.net/data/save). 
+
 A subset of OCR-CC with around 400K samples is availble in imdb ``data/imdb/cc/imdb_train_ocr_subset.npy``. The subset is faster to train with a small drop in performance, compared with the full set ``data/imdb/cc/imdb_train_ocr.npy``.
 
 ```

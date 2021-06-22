@@ -88,9 +88,13 @@ Set up val or test set by ``--run_type``.
 ## Performance and Pre-trained Models
 Please check the detailed experiment settings in our [paper](https://arxiv.org/pdf/2012.04638.pdf). 
 
-[Model links (~17G)](https://tapvqacaption.blob.core.windows.net/data/save). 
+[Model checkpoints (~17G)](https://tapvqacaption.blob.core.windows.net/data/save). 
 
-Please refer to the Readme in the ``data`` folder for azcopy downloading.
+```
+path/to/azcopy copy https://tapvqacaption.blob.core.windows.net/data/save <local_path>/save --recursive
+```
+
+Please refer to the Readme in the ``data`` folder for the detailed instructions on azcopy downloading.
 <table>
     <thead>
         <tr>
