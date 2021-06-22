@@ -1,0 +1,15 @@
+torch>=1.4
+torchvision>0.2
+tensorboardX>=1.2
+numpy>=1.14
+tqdm>=4.19
+demjson>=2.2
+torchtext==0.6
+GitPython>=2.1
+PyYAML>=3.11
+pytest==5.2.0
+requests==2.21.0
+fastText==0.9.1
+nltk==3.4.1
+pytorch-transformers==1.2.0
+editdistance
